@@ -1,0 +1,1 @@
+In this program, we need to find the most repeated word present in given text file. This can be done by opening a file in read mode using file pointer. Read the file line by line. Split a line at a time and store in an array.
